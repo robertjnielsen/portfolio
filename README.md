@@ -9,6 +9,13 @@
 - End time: 1040
 - Actual time to complete: 1 hour and 10 minutes
 
+### Feature #2: Modify The Contents
+
+- Estimated time to completion: ~ 2 hours
+- Start time: 1125
+- End time: 1210
+- Actual time to complete: 55 minutes
+
 ## Atributions
 
 Prologue by HTML5 UP
